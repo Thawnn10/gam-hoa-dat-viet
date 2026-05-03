@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thawnn10.github.io/gam-hoa-dat-viet/sitemap.xml
